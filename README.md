@@ -7,4 +7,6 @@
 </div>
 
 ### :hammer_and_wrench: About Website
+<p>The site was designed and created for a sushi restaurant. There are sections with different pages; when you go to each, you can find out more detailed information. A menu has been developed for viewing, the ability to reserve a table online or leave a review about the establishment.</p>
+<p>In the future, when improving the site, I would like to give you the opportunity to immediately order from your favorite menu items when booking a table.</p>
 
