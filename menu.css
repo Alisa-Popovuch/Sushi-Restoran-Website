@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-image: url(background_menu.png);
+    background-image: url(./assets/background_menu.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-image: url(background-sushi-set.png);
+    background-image: url(./assets/background-sushi-set.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
