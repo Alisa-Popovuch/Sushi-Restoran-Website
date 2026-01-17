@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <h1> 🍣 Sushi Restaurant Website</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2twcnNmcGNtNW4wdWhsNHR5M295Mm0yaWR6NGh2ZHk4bDF6YWFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A0EsxeeJz7asU/giphy.gif" alt="" width="200px"/>
 </div>
+
+<p align="center">
+  <img src="suchi.gif" alt="App Demo" width="700">
+</p>
 
 ## 📌 Projektbeschreibung
 Diese Webseite wurde als Übungsprojekt für ein Sushi-Restaurant entwickelt.  
@@ -38,8 +41,6 @@ In einer zukünftigen Version möchte ich die Möglichkeit ergänzen, bei einer 
 
 ---
 
----
-
 ## 🛠️ Lokal ausführen
 1. Repository klonen  
 2. Ordner öffnen  
@@ -61,8 +62,11 @@ Dieses Projekt darf zu Lernzwecken verwendet werden.
 ##
 <div id="header" align="center">
   <h1> 🍣 Sushi Restaurant Website</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2twcnNmcGNtNW4wdWhsNHR5M295Mm0yaWR6NGh2ZHk4bDF6YWFhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A0EsxeeJz7asU/giphy.gif" alt="" width="200px"/>
 </div>
+
+<p align="center">
+  <img src="suchi.gif" alt="App Demo" width="700">
+</p>
 
 ## 📌 About the project
 This website was developed as a practice project for a sushi restaurant.  
