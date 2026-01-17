@@ -6,6 +6,16 @@
   <img src="suchi.gif" alt="App Demo" width="700">
 </p>
 
+## 📱 Mobile Friendly / Responsive
+
+Alle Projekte sind vollständig responsive und für folgende Geräte optimiert:
+
+- Desktop
+- Tablet
+- Mobile
+
+Layouts, Menüs und interaktive Elemente passen sich automatisch an verschiedene Bildschirmgrößen an, um eine optimale Benutzererfahrung auf Smartphones und Tablets zu gewährleisten.
+
 ## 📌 Projektbeschreibung
 Diese Webseite wurde als Übungsprojekt für ein Sushi-Restaurant entwickelt.  
 Sie besteht aus mehreren Abschnitten und Seiten, auf denen Nutzer Informationen über das Restaurant, das Menü und die Leistungen erhalten können.
@@ -67,6 +77,16 @@ Dieses Projekt darf zu Lernzwecken verwendet werden.
 <p align="center">
   <img src="suchi.gif" alt="App Demo" width="700">
 </p>
+
+## 📱 Mobile Friendly / Responsive
+
+All projects are fully responsive and optimized for:
+
+- Desktop
+- Tablet
+- Mobile
+
+This means layouts, menus, and interactive elements adapt to different screen sizes, ensuring a smooth experience on phones and tablets.
 
 ## 📌 About the project
 This website was developed as a practice project for a sushi restaurant.  
